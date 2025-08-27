@@ -1,0 +1,1 @@
+must have a text file for the log to save to
